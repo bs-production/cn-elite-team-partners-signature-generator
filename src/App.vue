@@ -78,7 +78,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2019 Contractor Nation
+                    &copy;2024 Contractor Nation Air Group
                 </p>
             </div>
         </div>
