@@ -8,10 +8,10 @@
             "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
             <a href="https://www.contractornationlive.com/">
    
-            <img v-show="assSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/872/cn-logo-bar.png" name="preview-image-url" />
+            <img v-show="assSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3643/cnairgroup-signature-logo-bar.jpg" name="preview-image-url" />
      
       
-            <img v-show="!assSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/872/cn-logo-bar.png" name="preview-image-url" />
+            <img v-show="!assSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3643/cnairgroup-signature-logo-bar.jpg" name="preview-image-url" />
    
 
               </a>
@@ -78,7 +78,7 @@
                       &nbsp;&nbsp;
                     </td>
                   </tr>
-                <tr>
+                <!-- <tr>
                   <td colspan="2" style="padding-top: 5px;">
                     <a href="https://www.facebook.com/contractornation" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
@@ -99,12 +99,11 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/872/cn-insta.png" /></a>
                   </td>
-                </tr>
+                </tr> -->
               </table>
             </td>
           </tr>
         </table>
-          <!-- <p style="font-size: 14px; color: #0d3b7b;"><a href="https://cnbusinesscenter.com/tbs/?module=do_training_events_registration" style="color: #f57e3a;"> <b>Click here </b></a>for upcoming training events.</p> -->
     </section>
   </div>
 </template>
