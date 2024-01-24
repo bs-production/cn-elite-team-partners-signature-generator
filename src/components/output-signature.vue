@@ -8,10 +8,10 @@
             "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
             <a href="https://www.cnairgroup.com">
    
-            <img v-show="assSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3643/cnairgroup-signature-logo-bar.jpg" name="preview-image-url" />
+            <img v-show="assSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3643/cnairgroup-signature_logo-bar.jpg" name="preview-image-url" />
      
       
-            <img v-show="!assSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3643/cnairgroup-signature-logo-bar.jpg" name="preview-image-url" />
+            <img v-show="!assSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3643/cnairgroup-signature_logo-bar.jpg" name="preview-image-url" />
    
 
               </a>
@@ -78,28 +78,47 @@
                       &nbsp;&nbsp;
                     </td>
                   </tr>
-                <!-- <tr>
+                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/contractornation" target="_blank" style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="20"
-                    height="20" style=
-                    "border: none; width: 20px; max-width: 20px !important; height: 20px; max-height: 20px !important;"
+                    <a href="https://www.facebook.com/profile.php?id=61555387024191" target="_blank" style=
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/872/cn-fb.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/ContractorNatn" target="_blank"
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png" /></a>
+                    
+                    <a href="https://www.linkedin.com/company/contractor-nation-air-group" target="_blank" style=
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
+                    src=
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
+                    
+                    <!-- <a href="https://www.youtube.com/channel/UCeZriiWQwELIGcWiZV3vGeg" target="_blank"
                     style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="20"
-                    height="20" style=
-                    "border: none; width: 20px; max-width: 20px !important; height: 20px; max-height: 20px !important;"
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/872/cn-tw.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/contractor.nation/" target="_blank"
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/youtube.png" /></a>
+
+                    <a href="https://twitter.com/brownroofingct" target="_blank"
                     style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="20"
-                    height="20" style=
-                    "border: none; width: 22px; max-width: 22px !important; height: 22px; max-height: 22px !important;"
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/872/cn-insta.png" /></a>
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1253/twitter-circle-icon-2.png" /></a>
+
+                    <a href="https://www.instagram.com/brownroofingct/" target="_blank"
+                    style=
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
+                    src=
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png" /></a> -->
                   </td>
-                </tr> -->
+                </tr> 
               </table>
             </td>
           </tr>
