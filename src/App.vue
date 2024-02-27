@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3643/CN-AirGroup-Logo-4C-2-01.png" alt="" style="width:400px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/872/CN_EliteTeam_Badge_RGB.png" alt="" style="width: 251px;background: #fff;padding: 1rem;">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -78,7 +78,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2024 Contractor Nation Air Group
+                    &copy;2024 Contractor Nation Elite Team Partners
                 </p>
             </div>
         </div>
